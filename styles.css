@@ -1,0 +1,23 @@
+
+@import url('pasta/header.css');
+@import url('pasta/Image.css');
+@import url('pasta/following.css');
+@import url('pasta/link.css');
+@import  url('pasta/burger.css');
+
+
+*{
+
+padding: 0 0;
+margin: 0 0;
+box-sizing: border-box; /* Ajuda a controlar o tamanho dos elementos */
+
+}
+:root{
+
+    --cor-cabecalho: hsl(343, 100%, 50%);
+    --cor-sections: linear-gradient (to right, hsl(344, 77%, 20%),hsl(343, 100%, 50%) )
+    
+    }
+
+   
